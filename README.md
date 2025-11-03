@@ -20,5 +20,20 @@ The MLX90640 measures infrared temperature only; it cannot capture RGB images fr
 
 Each pixel in the camera frame functions as an individual sensor point (an array of 32 × 24 = 768 pixels). Every pixel measures the temperature at its specific location, providing readings between −40 °C and 300 °C.*
 
+---
+Compatibility:
+- 
+Raspberry Pi
+ESP32
+Teensy 3.1 or higher
+Other micro-controllers of 20kB RAM or higher
+Not for Arduino boards.
+
+---
+More Info:
+-
+ADAFRUIT more info: https://learn.adafruit.com/adafruit-mlx90640-ir-thermal-camera/overview
+
+SPARKFUN more info: https://learn.sparkfun.com/tutorials/qwiic-ir-array-mlx90640-hookup-guide
 
 
