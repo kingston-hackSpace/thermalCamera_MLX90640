@@ -23,11 +23,11 @@ Each pixel in the camera frame functions as an individual sensor point (an array
 ---
 Compatibility:
 - 
-Raspberry Pi
-ESP32
-Teensy 3.1 or higher
-Other micro-controllers of 20kB RAM or higher
-Not for Arduino boards.
+- Raspberry Pi
+- ESP32
+- Teensy 3.1 or higher
+- Other micro-controllers of 20kB RAM or higher
+- *NOT for Arduino boards*
 
 ---
 More Info:
